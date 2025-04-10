@@ -1,5 +1,5 @@
 import numpy as np
-import torch
+import torch as torch
 import torch.nn.functional as F
 import matplotlib.pyplot as plt
 
